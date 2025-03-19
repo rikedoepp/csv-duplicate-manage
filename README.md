@@ -104,25 +104,6 @@ See `dependencies_for_github.txt` for the complete list of dependencies.
 - `run_demo.py`: Script to quickly start the demo version
 - `.github/workflows/`: CI/CD configuration
 
-## Deployment Options
-
-### Local Development
-Run the application locally as described in the Installation section.
-
-### GitHub Pages
-This repository includes GitHub Actions workflows for basic checks when you push changes.
-
-### Streamlit Cloud
-For public hosting:
-1. Push this code to GitHub
-2. Visit [Streamlit Cloud](https://streamlit.io/cloud)
-3. Connect your GitHub repository
-4. Select app.py as the main file
-5. Deploy!
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
