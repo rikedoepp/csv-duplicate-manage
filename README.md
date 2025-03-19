@@ -42,6 +42,14 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+# In your Replit terminal
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/yourusername/csv-duplicate-manager.git
+git branch -M main
+git push -u origin main
+
 ### Quick Demo
 
 For a quick demo with sample data:
